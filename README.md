@@ -11,7 +11,7 @@
 
 ## 安装与运行
 
-需要 Python 3.10+，并带有 tkinter（Windows 官方 Python 自带）。
+需要 Python 3.10+ 与 PySide6（见 requirements.txt），无需额外的系统 GUI 库。
 
 ```powershell
 pip install -r requirements.txt

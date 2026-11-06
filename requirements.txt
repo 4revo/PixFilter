@@ -1,2 +1,3 @@
 Pillow>=10.0,<13.0
 ImageHash>=4.3,<5.0
+PySide6>=6.6,<7
